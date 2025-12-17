@@ -66,7 +66,7 @@ Todo o processamento é feito no navegador, sem dependência de backend.
 
 ---
 
-## Como Executar o Projeto
+## Execução do Projeto
 
 ### Pré-requisitos
 
@@ -94,10 +94,6 @@ Abra o navegador em:
 ```
 http://localhost:5173
 ```
-
-*(ou a porta indicada no terminal)*
-
----
 
 ## Contexto Acadêmico
 
