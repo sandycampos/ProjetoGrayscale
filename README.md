@@ -2,11 +2,9 @@
 
 Aplicação web desenvolvida em **React** para processamento digital de imagens em **escala de cinza**, implementando diversas técnicas clássicas da disciplina de **Processamento de Imagens**. O sistema permite carregar uma imagem, aplicar operações em tempo real e baixar o resultado processado.
 
-Projeto acadêmico — **UNIR | Processamento de Imagens — 2025**.
-
 ---
 
-## 📸 Funcionalidades
+## Funcionalidades
 
 * Upload de imagens diretamente do navegador
 * Conversão automática para **grayscale**
@@ -17,9 +15,9 @@ Projeto acadêmico — **UNIR | Processamento de Imagens — 2025**.
 
 ---
 
-## 🧠 Operações Implementadas
+## Operações Implementadas
 
-### 🔹 Transformações de Intensidade
+### Transformações de Intensidade
 
 * Negativo
 * Limiarização
@@ -27,20 +25,20 @@ Projeto acadêmico — **UNIR | Processamento de Imagens — 2025**.
 * Transformação Logarítmica
 * Alargamento de Contraste
 
-### 🔹 Histograma
+### Histograma
 
 * Expansão de Histograma
 * Equalização de Histograma
 * Contraste Adaptativo
 
-### 🔹 Transformações Geométricas
+### Transformações Geométricas
 
 * Mudança de Escala (Interpolação Bilinear)
 * Rotação
 * Cisalhamento
 * Rebatimento Horizontal e Vertical
 
-### 🔹 Filtragem
+### Filtragem
 
 * Filtro da Média
 * Filtro da Mediana
@@ -48,7 +46,7 @@ Projeto acadêmico — **UNIR | Processamento de Imagens — 2025**.
 * Aguçamento de Bordas
 * High Boost
 
-### 🔹 Filtros Especiais
+### Filtros Especiais
 
 * Filtro de Aguçamento parametrizado (c, d)
 * Filtro de Relevo
@@ -56,7 +54,7 @@ Projeto acadêmico — **UNIR | Processamento de Imagens — 2025**.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **React** (Hooks)
 * **JavaScript (ES6+)**
@@ -68,7 +66,7 @@ Todo o processamento é feito no navegador, sem dependência de backend.
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 
@@ -101,7 +99,7 @@ http://localhost:5173
 
 ---
 
-## 📚 Contexto Acadêmico
+## Contexto Acadêmico
 
 Este projeto foi desenvolvido com fins **didáticos**, visando a aplicação prática dos conceitos de:
 
