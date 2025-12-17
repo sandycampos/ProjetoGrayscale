@@ -101,17 +101,6 @@ http://localhost:5173
 
 ---
 
-## 📂 Estrutura Principal
-
-```
-src/
- ├── App.jsx        # Componente principal com todas as operações
- ├── main.jsx       # Ponto de entrada da aplicação
- └── index.css      # Estilos globais (Tailwind)
-```
-
----
-
 ## 📚 Contexto Acadêmico
 
 Este projeto foi desenvolvido com fins **didáticos**, visando a aplicação prática dos conceitos de:
